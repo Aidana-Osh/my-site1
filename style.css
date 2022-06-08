@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(24, 209, 0);
+}
+
+header {
+    background-color:mediumturquoise;
+}
+
+.link-header {
+    background-color:yellowgreen;
+}
