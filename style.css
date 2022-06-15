@@ -14,3 +14,35 @@ header {
 .link-header {
     background-color:yellowgreen;
 }
+
+nav a {
+    justify-content: center;
+    display: flex;
+}
+
+.social  {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.spider {
+    float: right;
+    display: flex;
+    justify-content: center;
+}
+
+.mail {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.web-sites {
+    display: inline-block;
+    justify-content: center;
+}
